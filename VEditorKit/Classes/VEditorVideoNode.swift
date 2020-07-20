@@ -7,6 +7,7 @@
 //
 
 import Foundation
+import AVFoundation
 import AsyncDisplayKit
 import RxSwift
 import RxCocoa
